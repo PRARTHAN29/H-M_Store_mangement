@@ -1,48 +1,40 @@
 # H-M_Store_mangement
-1. Project Title
+📌 Project Description
 
-H&M Store Management
+This project explores the global presence of H&M stores by analyzing their distribution across countries, states, and cities. It identifies how many store classes exist and uncovers potential new locations for brand expansion through data-driven insights.
 
-2. Description
+📊 Data Source
 
-This project explores the global presence of H&M stores. It provides insights into how many countries, states, and cities have H&M stores, how many store classes exist, and identifies potential locations for future expansion based on current distribution.
+Dataset sourced from Kaggle
 
-3. Data Source
+🛠 Tech Stack
 
-Data sourced from Kaggle
+Power BI (for data cleaning, transformation, and visualization)
 
-4. Tech Stack
+🔧 Tasks Performed
 
-Power BI (Data cleaning, transformation, and visualization)
+Cleaned and transformed the raw dataset:
 
-5. Tasks Performed
+Replaced incorrect or missing values
 
-Filtered and cleaned the raw dataset by:
+Removed null entries and unnecessary columns
 
-Replacing values
+Built interactive dashboards to visualize:
 
-Removing nulls
+Store locations by country, state, and city
 
-Dropping unnecessary columns
+Store class distribution
 
-Transformed the data to prepare it for analysis
+Extracted insights to guide H&M’s future market expansion strategy
 
-Developed interactive dashboards to visualize:
+✨ Key Features
 
-Store distribution across countries, states, and cities
+Cards: Display total count of countries, cities, stores, and store classes
 
-Store class segmentation
+Stacked Column Chart: Visualizes store class distribution across geographic regions
 
-Derived insights to support strategic expansion planning
+Stacked Bar Chart: Shows the number of stores per city, state, and country
 
-6. Features
+🎯 Goal
 
-Cards: Display total number of countries, cities, stores, and store classes
-
-Stacked Column Chart: Visualizes store classes across cities, states, and countries for better understanding of store distribution
-
-Stacked Bar Chart: Shows the number of stores across different geographic levels (city/state/country)
-
-7. Goal
-
-To support H&M's brand expansion strategy by identifying underserved regions and understanding current store distribution.
+To support H&M’s brand expansion by identifying underrepresented areas and analyzing current global store coverage.
