@@ -19,7 +19,7 @@
 
 =>  Removed null entries and unnecessary columns
 
-=>  Built interactive dashboards to visualize:
+=>  Built interactive report:
 
 =>  Store locations by country, state, and city
 
