@@ -3,19 +3,19 @@
 
 => This project provides a comprehensive analysis of H&M’s global store distribution across countries, states, and cities. It is designed to evaluate store presence, identify store class patterns, and uncover potential regions for future expansion using data-driven insights.
 
---
+---
 
 📊 Data Source
 
 => Dataset sourced from Kaggle.
 
---
+---
 
 🛠 Tech Stack
 
 => Power BI – used for data cleaning, transformation, modeling, and visualization.
 
---
+---
 
 🔧 Tasks Performed
 
@@ -32,7 +32,7 @@ Created measures and transformations for analysis:
        => Total Stores – Overall store count  
        => Store Classes – Classification-based grouping of stores  
 
---
+---
 
 ✨ Key Features
 
@@ -63,14 +63,14 @@ Charts & Visuals:
              * Store class distribution comparison across locations  
              * Identification of underrepresented markets  
 
---
+---
 
 🎯 Goal
 
 => To analyze H&M’s global store footprint and support data-driven expansion strategies by identifying underserved regions and optimizing store distribution.
 
 
---
+---
 
 💡 Key Insight
 
