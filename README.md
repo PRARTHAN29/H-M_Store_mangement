@@ -77,3 +77,10 @@ Charts & Visuals:
 💡**Key Insight**
 
 => The analysis indicates that H&M stores are heavily concentrated in specific regions. Based on the distribution pattern, potential expansion opportunities exist in underrepresented markets such as New Zealand, Qatar, and similar non-European regions, supporting future global growth strategy.
+
+---
+
+## Recommandation
+
+      =>Expand into underrepresented markets to improve global coverage.
+      =>Conduct market research and pilot store launches in these regions to drive global growth.
