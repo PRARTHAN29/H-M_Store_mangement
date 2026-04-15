@@ -1,46 +1,63 @@
-# H-M_Store_mangement
+🛍️ H&M Store Management Report
 📌 Project Description
 
-=>  This project explores the global presence of H&M stores by analyzing their distribution across countries, states, and cities. It identifies how many store classes exist and uncovers potential new locations for brand expansion through data-driven insights.
+=> This project provides a comprehensive analysis of H&M’s global store distribution across countries, states, and cities. It is designed to evaluate store presence, identify store class patterns, and uncover potential regions for future expansion using data-driven insights.
 
 📊 Data Source
 
-=>  Dataset sourced from Kaggle
+=> Dataset sourced from Kaggle.
 
 🛠 Tech Stack
 
-=>  Power BI (for data cleaning, transformation, and visualization)
+=> Power BI – used for data cleaning, transformation, modeling, and visualization.
 
 🔧 Tasks Performed
 
-=>  Cleaned and transformed the raw dataset:
+Built an interactive report with the following insights:
 
-=>  Replaced incorrect or missing values
+ => Store distribution across countries, states, and cities  
+ => Store class segmentation and analysis  
+ => Geographic concentration of stores and underrepresented regions  
 
-=>  Removed null entries and unnecessary columns
+Created measures and transformations for analysis:
 
-=>  Built interactive report:
-
-=>  Store locations by country, state, and city
-
-=>  Store class distribution
-
-=>  Extracted insights to guide H&M’s future market expansion strategy
-
+ => Total Countries – Number of countries with H&M presence  
+ => Total Cities – Number of cities with stores  
+ => Total Stores – Overall store count  
+ => Store Classes – Classification-based grouping of stores  
 ✨ Key Features
 
-=>  Cards: Display total count of countries, cities, stores, and store classes
+Cards (used as KPIs):
 
-=>  Stacked Column Chart: Visualizes store class distribution across geographic regions
+ => Total Countries  
+ => Total Cities  
+ => Total Stores  
+ => Store Classes  
 
-=>  Stacked Bar Chart: Shows the number of stores per city, state, and country
+Slicers:
 
-=> Slicer: Country, State, Store_Class, Store_Name
+ => Country  
+ => State  
+ => Store Class  
+ => Store Name  
 
+Charts & Visuals:
+
+=> Store Distribution Page
+
+   * Stacked Column Chart: Store Class distribution across regions  
+   * Stacked Bar Chart: Stores by country, state, and city  
+   * Map/Geographic View: Store presence visualization (if used)  
+
+=> Analysis Insights
+
+   * Regional concentration patterns of stores  
+   * Store class distribution comparison across locations  
+   * Identification of underrepresented markets  
 🎯 Goal
 
-=> To support H&M’s brand expansion by identifying underrepresented areas and analyzing current global store coverage.
+=> To analyze H&M’s global store footprint and support data-driven expansion strategies by identifying underserved regions and optimizing store distribution.
 
-Result
+💡 Key Insight
 
-=> The analysis suggests that H&M’s presence is heavily concentrated in specific regions. Based on the distribution patterns, expansion opportunities exist in underrepresented non-European markets such as New Zealand, Qatar, and similar emerging retail regions.
+=> The analysis indicates that H&M stores are heavily concentrated in specific regions. Based on the distribution pattern, potential expansion opportunities exist in underrepresented markets such as New Zealand, Qatar, and similar non-European regions, supporting future global growth strategy.
