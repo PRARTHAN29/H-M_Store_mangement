@@ -35,6 +35,12 @@
 
 =>  Stacked Bar Chart: Shows the number of stores per city, state, and country
 
+=> Slicer: Country, State, Store_Class, Store_Name
+
 🎯 Goal
 
-=>  To support H&M’s brand expansion by identifying underrepresented areas and analyzing current global store coverage.
+=> To support H&M’s brand expansion by identifying underrepresented areas and analyzing current global store coverage.
+
+Result
+
+=> The analysis suggests that H&M’s presence is heavily concentrated in specific regions. Based on the distribution patterns, expansion opportunities exist in underrepresented non-European markets such as New Zealand, Qatar, and similar emerging retail regions.
