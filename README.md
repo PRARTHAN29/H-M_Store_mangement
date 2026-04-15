@@ -1,25 +1,25 @@
-🛍️ H&M Store Management Report
+🛍️ **H&M Store Management Report**
 
 ---
-📌 Project Description
+📌 **Project Description**
 
 => This project provides a comprehensive analysis of H&M’s global store distribution across countries, states, and cities. It is designed to evaluate store presence, identify store class patterns, and uncover potential regions for future expansion using data-driven insights.
 
 ---
 
-📊 Data Source
+📊 **Data Source**
 
 => Dataset sourced from Kaggle.
 
 ---
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 => Power BI – used for data cleaning, transformation, modeling, and visualization.
 
 ---
 
-🔧 Tasks Performed
+🔧 **Tasks Performed**
 
 Built an interactive report with the following insights:
 
@@ -36,7 +36,7 @@ Created measures and transformations for analysis:
 
 ---
 
-✨ Key Features
+✨ **Key Features**
 
 Cards (used as KPIs):
 
@@ -67,13 +67,13 @@ Charts & Visuals:
 
 ---
 
-🎯 Goal
+🎯 **Goal**
 
 => To analyze H&M’s global store footprint and support data-driven expansion strategies by identifying underserved regions and optimizing store distribution.
 
 
 ---
 
-💡 Key Insight
+💡**Key Insight**
 
 => The analysis indicates that H&M stores are heavily concentrated in specific regions. Based on the distribution pattern, potential expansion opportunities exist in underrepresented markets such as New Zealand, Qatar, and similar non-European regions, supporting future global growth strategy.
