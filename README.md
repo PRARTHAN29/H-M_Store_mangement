@@ -1,6 +1,6 @@
 🛍️ H&M Store Management Report
 
-
+---
 📌 Project Description
 
 => This project provides a comprehensive analysis of H&M’s global store distribution across countries, states, and cities. It is designed to evaluate store presence, identify store class patterns, and uncover potential regions for future expansion using data-driven insights.
